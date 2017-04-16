@@ -1,0 +1,12 @@
+name: ReportPE
+author: StuckDexter,GamerBOXone
+version: 1.0
+api: [3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4, 3.0.0-ALPHA5]
+main: StuckDexter\ReportPE
+website: https://twitter.com/dexterhd5
+commands: 
+  report:
+    description: Report a player
+permission:
+  report.recive:
+    default: op
